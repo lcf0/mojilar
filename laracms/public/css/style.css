@@ -1,0 +1,45 @@
+.content-body{
+	background-color: #ecf0f5;
+}
+.sm > i{
+	    margin-top: 3px;
+	    float: right;
+}
+
+.fileinput-cancel-button{
+	display: none;
+}
+.file-preview{
+	width:44%;
+	left: 17%;
+	margin-top: 20px;
+}
+.file-caption{
+	width: 539px;
+	left: 15%;
+}
+.btn-file{
+	height: 34px;
+	width: 110px
+}
+.file-caption-main{
+	width: 46%;
+	left: 11%
+}
+.file-caption-main{
+margin-left: -5%;
+}
+.file_box{
+	width: 44%;
+
+	margin-top: 34px;
+
+	position: 62%;
+
+	padding-left: 0%;
+
+	margin-left: 10%;
+}
+#remove{
+	display: none;
+}
